@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header{
+  background-color: #B22D00;
+  padding: 12px;
+
+}
+
+.header ul{
+  display: flex;
+}
+
+.header .tel{
+  margin-left: 758px;
+  margin-top: 12px;
+  text-align: end;
+}
+
+
+.headersec{
+  background-color: #D9A300;
+}
+
+.header span{
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+.headersec ul{
+  list-style: none;
+  display: inline-flex;
+  margin: 12px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.headersec li{
+  margin-right: 20px;
+}
+
+.headersec li a{
+  text-decoration:  none;
+  color: black;
+}
+
+.content{
+  background-color: #ffffff;
+  padding: 50px;
+}
+
+.enunc{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.envie{
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.txtenvie{
+  font-weight: 200;
+  font-size: 16px;
+}
+
+.contato{
+
+}
+
+.txtenvie{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.form {
+  width: 40%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+
+}
+
+.form input{
+  width: 100%;
+  padding: 5px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form textarea {
+  width: 100%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+  width: 180%;
+}
+
+.botao input {
+  margin-top: 15px;
+  background-color: #777;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  border: none;
+  padding: 10px 30px 10px 30px;
+
+}
+
+.grid{
+  display: flex;
+}
+
+.colun1{
+  width: 80%;
+}
+
+.colun2{
+  width: 30%;
+}
+
+.mapa{
+  width: 300px;
+  height: 200px;
+  background-color: #DDDDDD;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.enuncmapa{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: gray;
+
+}
+
+.sobre{
+  margin-top: 10px;
+}
+
+.end{
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+}
+
+.rua{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.email{
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+}
+
+.contato{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.contemp{
+  margin-top: 20px;
+}
+
+.tel{
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+}
+
+.numtel{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.footer{
+  background-color: #333333;
+  padding-top: 15px;
+  padding-bottom: 15px; 
+}
+
+.txtfooter{
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 12px;
+  padding-left: 50px;
+}

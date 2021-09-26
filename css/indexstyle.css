@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header{
+  background-color: #B22D00;
+  padding: 12px;
+
+}
+
+.header ul{
+  display: flex;
+}
+
+.header .tel{
+  margin-left: 758px;
+  margin-top: 12px;
+  text-align: end;
+
+}
+
+
+.headersec{
+  background-color: #D9A300;
+}
+
+.header span{
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+.headersec ul{
+  list-style: none;
+  display: inline-flex;
+  margin: 12px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.headersec li{
+  margin-right: 20px;
+}
+
+.headersec li a{
+  text-decoration:  none;
+  color: black;
+}
+
+.content{
+  background-color: #ffffff;
+  padding: 50px;
+}
+
+.enunc{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+
+.galeria{
+  display: flex;
+  text-align: center;
+}
+
+.galeria img{
+  width: 100%;
+  height: 100%;
+}
+
+.calabresa{
+  padding-right: 30px;
+}
+
+.siciliana{
+  padding-right: 30px;
+}
+
+.galeria span{
+  margin: 10px;
+}
+
+.txtpizza{
+  font-family: 'Roboto', sans-serif;
+}
+
+.contentsec{
+  display: flex;
+}
+
+.sabores{
+    width: 60%;
+}
+
+.nossossabores{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.enunchist{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.cardapio{
+  display: flex;
+  list-style: none;
+  margin-top: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+}
+
+.c1{
+  margin-right: 50px;
+}
+
+.c2{
+  margin-right: 70px;
+}
+
+.c3{
+  margin-right: 50px;
+}
+
+.historia{
+    width: 40%;
+}
+
+.historia img{
+  float: left;
+  margin-right: 30px;
+}
+
+.conthist{
+  margin-top: 8px;
+}
+
+.txthist{
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+}
+
+.conheca{
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  color: #DB7610;
+}
+
+.conheca a{
+  text-decoration: none;
+  color: #DB7610;
+}
+
+.footer{
+  background-color: #333333;
+  padding-top: 15px;
+  padding-bottom: 15px; 
+}
+
+.txtfooter{
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 12px;
+  padding-left: 50px;
+}
